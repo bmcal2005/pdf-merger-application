@@ -5,7 +5,7 @@ tool to merge multiple PDF files into one because all other websites are paid
 ## Features
 - Upload multiple PDFs through a clean web interface
 - Download a single merged PDF
-- No upload limits or paywalls — runs locally!
+- No upload limits or paywalls AND it runs locally!
 
 ## Tech Stack
 - **Frontend**: HTML5, basic CSS
