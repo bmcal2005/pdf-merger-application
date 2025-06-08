@@ -19,3 +19,4 @@ Clone the repo and install dependencies:
 git clone https://github.com/yourusername/pdf-merger-app.git
 cd pdf-merger-app
 pip install flask PyPDF2
+python app.py
